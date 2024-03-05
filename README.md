@@ -24,8 +24,11 @@ To run the application locally, follow these steps:
 
 ## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](https://github.com/CrisanEmanuel/MAP_ToySocialNetwork/blob/master/images/MainPage.png)
 *Login Screen*
 
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/CrisanEmanuel/MAP_ToySocialNetwork/blob/master/images/AdminPage.png)
 *Home Page*
+
+![Page](https://github.com/CrisanEmanuel/MAP_ToySocialNetwork/blob/master/images/UserPage.png)
+*User Page*
